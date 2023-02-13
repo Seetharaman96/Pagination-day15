@@ -7,6 +7,7 @@
     bottom: 100px;
 }
 .parent-data{
+    font-size: large;
     height: 500px;
     display: flex;
     justify-content: center;
