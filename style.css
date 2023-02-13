@@ -1,0 +1,14 @@
+.parent-pagination{
+    display: flex;
+    justify-content: center;
+}
+.pagination{
+    position: fixed;
+    bottom: 100px;
+}
+.parent-data{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
